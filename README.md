@@ -36,3 +36,10 @@ NA | ![Liquify](https://github.com/datta934/learning-photoshop/assets/18361700/e
 
 ### AI Generative Fill Tool
 
+### Double Exposure Effect
+> Overlay Masking, Double Exposure
+
+Before  |After
+------------- | -------------
+![pexels-spencer-selover-428364](https://github.com/datta934/learning-photoshop/assets/18361700/15ac8b7e-43b6-4a0a-bbdc-eaf341ea241e) | ![MaskOverlay](https://github.com/datta934/learning-photoshop/assets/18361700/e2a11483-302a-4f0b-8a84-e4750183d12d) 
+NA | ![DoubleExposure](https://github.com/datta934/learning-photoshop/assets/18361700/67b3a444-681e-4168-b34a-624b80ae2181)
