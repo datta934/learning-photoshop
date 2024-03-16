@@ -43,3 +43,8 @@ Before  |After
 ------------- | -------------
 ![pexels-spencer-selover-428364](https://github.com/datta934/learning-photoshop/assets/18361700/15ac8b7e-43b6-4a0a-bbdc-eaf341ea241e) | ![MaskOverlay](https://github.com/datta934/learning-photoshop/assets/18361700/e2a11483-302a-4f0b-8a84-e4750183d12d) 
 NA | ![DoubleExposure](https://github.com/datta934/learning-photoshop/assets/18361700/67b3a444-681e-4168-b34a-624b80ae2181)
+![pexels-mermek-avitia-1573324](https://github.com/datta934/learning-photoshop/assets/18361700/70505977-ffc1-47d7-9691-8eafd8d4cd34) | ![DoubleExposure2jpg](https://github.com/datta934/learning-photoshop/assets/18361700/c297fd87-ecf3-4237-b678-dcdb43793cbf)
+![pexels-karen-irala-16110218](https://github.com/datta934/learning-photoshop/assets/18361700/059316f7-8737-4764-a4a1-bc16213d61ce) | ![pexels-karen-irala-16110218](https://github.com/datta934/learning-photoshop/assets/18361700/b44bb48c-c844-4b72-89a0-a000e485a5d2)
+
+### Extras - Updates 2022-2023
+> Neural Filters, Mixer, Object Selection Harmonization
